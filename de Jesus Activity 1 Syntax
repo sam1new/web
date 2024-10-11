@@ -1,0 +1,31 @@
+<head>
+     <title> Samantha Introduction HTML</title>
+    <body>
+        <h1>Samantha Louise E. de Jesus</h1>
+        <b><h2> SAM</h2></b>
+            <p>
+             I enrolled in MFI because of the broad job opportunities it offers right after graduation.
+             I chose Information Technology because I was encouraged by my sister. <br>
+             I have zero background with IT or anything computer-related, but I am eager to learn and challenge myself. <br>
+             Throughout this course, I expect to garner knwoledge that will be useful in the future when I begin to work. <br>
+             I hope that instructors will be able to assist me with topics I would have trouble understanding, and I am looking forward to my employment through the help of MFI. <br>
+             </p>
+             <i><b><h3>hobbies, interests</h3></b></i>
+             <p> I find my personal enjoyment and satisfaction in life by:</p>
+             <img src = "c:\Users\Student\Downloads\sam.png">
+             <ul>
+                <li> attending concerts, and music festivals</li>
+             </ul>
+             <p> Music helps me get through any situation, and I like to explore different genres that expresses how I feel.
+             </p>
+              <ul> 
+                <li> My dream will always be aviation, and flying.</li>
+              </ul>
+              <p> I am a licensed Aircraft Maintenance Technician, and have experienced working as an Assistant Aircraft Mechanic in a small airport. It is the highlight of my life, and I have no regrets that I am now pursuing a different career path, because I have already lived my dream. For a while, I was in it.</p>
+              <i> <b> <h3> goals </h3></b></i>
+              <p> My goal is to persevere through this course and quickly find employment so that I could provide for my family, and prove my independence.</p>
+              <i><b><h3> motto</h3></b></i>
+              <i><p> put to rout all that was not life</p></i>- Dead Poets Society, 1989
+            
+    </body>
+</head>
